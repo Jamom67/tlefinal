@@ -1,6 +1,5 @@
 pip
 PyNaCl==1.3.0
 seaborn
-poetry add
 pillow
 discord.py
