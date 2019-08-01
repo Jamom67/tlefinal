@@ -1,0 +1,5 @@
+pip
+PyNaCl==1.3.0
+seaborn
+pillow
+discord.py
